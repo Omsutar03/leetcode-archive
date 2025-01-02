@@ -1,0 +1,185 @@
+[
+    {
+      "problem": "Maximum Score After Splitting a String",
+      "solutionLink": "https://leetcode.com/problems/maximum-score-after-splitting-a-string/solutions/6212724/simple-prefixsum-approach-python-beats-1-lwg7",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["String","Prefix Sum"]
+    },
+    {
+      "problem": "Climbing Stairs",
+      "solutionLink": "https://leetcode.com/problems/climbing-stairs/solutions/6204980/simple-recurrence-approach-beats-100-by-6mb9q",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["Math","Dynamic Programming","Memoization"]
+    },
+    {
+      "problem": "Max Chunks To Make Sorted",
+      "solutionLink": "https://leetcode.com/problems/max-chunks-to-make-sorted/solutions/6164063/simple-optimal-greedy-approach-python-be-wtpp",
+      "runtime": "100%",
+      "difficulty": "Medium",
+      "tags": ["Array","Stack","Greedy","Sorting","Monotonic Stack"]
+    },
+    {
+      "problem": "Merge Strings Alternately",
+      "solutionLink": "https://leetcode.com/problems/merge-strings-alternately/solutions/6143448/simple-beginner-friendly-approach-c-beat-4ioi",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["Two Pointers","String"]
+    },
+    {
+      "problem": "Find Closest Number to Zero",
+      "solutionLink": "https://leetcode.com/problems/find-closest-number-to-zero/solutions/6140197/simple-beginner-friendly-solution-beats-nu6kx",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["Array"]
+    },
+    {
+      "problem": "Find Longest Special Substring That Occurs Thrice I",
+      "solutionLink": "https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/solutions/6132923/simple-hashmap-approach-3-ms-solution-be-un20",
+      "runtime": "99.73%",
+      "difficulty": "Medium",
+      "tags": ["Hash Table","String","Binary Search","Sliding Window","Counting"]
+    },
+    {
+      "problem": "Special Array II",
+      "solutionLink": "https://leetcode.com/problems/special-array-ii/solutions/6132724/easy-to-understand-prefixsum-approach-be-lq0i",
+      "runtime": "100%",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search","Prefix Sum"]
+    },
+    {
+      "problem": "Special Array I",
+      "solutionLink": "https://leetcode.com/problems/special-array-i/solutions/6128268/simple-and-beginner-friendly-approach-wi-5kmd",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["Array"]
+    },
+    {
+      "problem": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+      "solutionLink": "https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/solutions/6109075/few-lines-of-code-with-effective-approac-zuxq",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["Two Pointers","String","String Matching"]
+    },
+    {
+      "problem": "Check If N and Its Double Exist",
+      "solutionLink": "https://leetcode.com/problems/check-if-n-and-its-double-exist/solutions/6100649/simple-and-effective-approach-beats-100-s4h0m",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Two Pointers","Binary Search","Sorting"]
+    },
+    {
+      "problem": "Valid Parentheses",
+      "solutionLink": "https://leetcode.com/problems/valid-parentheses/solutions/6093894/simplified-optimal-solution-using-stack-br5tt",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["String", "Stack"]
+    },
+    {
+      "problem": "Baseball Game",
+      "solutionLink": "https://leetcode.com/problems/baseball-game/solutions/6093788/simple-yet-effective-solution-beats-100-5z9bt",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["Array","Stack","Simulation"]
+    },
+    {
+      "problem": "Water Bottles",
+      "solutionLink": "https://leetcode.com/problems/water-bottles/solutions/6092622/simple-straightforward-yet-optimised-sol-zphh",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["Math","Simulation"]
+    },
+    {
+      "problem": "Find Champion I",
+      "solutionLink": "https://leetcode.com/problems/find-champion-i/solutions/6084711/most-simple-yet-optimised-solution-beats-05d6",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["Array","Matrix"]
+    },
+    {
+      "problem": "Reverse String II",
+      "solutionLink": "https://leetcode.com/problems/reverse-string-ii/solutions/6066133/simple-linear-time-space-approach-beats-iwp5a",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["Two Pointers","String"]
+    },
+    {
+      "problem": "Maximum Number of Balloons",
+      "solutionLink": "https://leetcode.com/problems/maximum-number-of-balloons/solutions/6026960/most-efficient-constant-space-o1-yet-sim-7tki",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","String","Counting"]
+    },
+    {
+      "problem": "Jewels and Stones",
+      "solutionLink": "https://leetcode.com/problems/jewels-and-stones/solutions/6019264/count-jewels-in-stones-with-hash-map-loo-p32w",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","String"]
+    },
+    {
+      "problem": "Roman to Integer",
+      "solutionLink": "https://leetcode.com/problems/roman-to-integer/solutions/6015753/most-simple-and-optimised-solution-beats-u2pz",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","Math","String"]
+    },
+    {
+      "problem": "Rotate String",
+      "solutionLink": "https://leetcode.com/problems/rotate-string/solutions/6001044/simple-and-optimal-solution-beats-100-2-6e76n",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["String","String Matching"]
+    },
+    {
+      "problem": "Rotate Image",
+      "solutionLink": "https://leetcode.com/problems/rotate-image/solutions/5998820/simple-logic-with-optimal-approach-beats-4n81",
+      "runtime": "100%",
+      "difficulty": "Medium",
+      "tags": ["Array","Math","Matrix"]
+    },
+    {
+      "problem": "Circular Sentence",
+      "solutionLink": "https://leetcode.com/problems/circular-sentence/solutions/5996520/most-simple-and-straightforward-approach-4h9p",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["String"]
+    },
+    {
+      "problem": "Minimum Operations to Make Array Equal",
+      "solutionLink": "https://leetcode.com/problems/minimum-operations-to-make-array-equal/solutions/5977871/optimal-constant-time-solution-beating-1-8tq3",
+      "runtime": "100%",
+      "difficulty": "Medium",
+      "tags": ["Math"]
+    },
+    {
+      "problem": "Find Missing and Repeated Values",
+      "solutionLink": "https://leetcode.com/problems/find-missing-and-repeated-values/solutions/5970754/optimized-on2-solution-with-hashmap-beat-v2re",
+      "runtime": "98.08%%",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Math","Matrix"]
+    },
+    {
+      "problem": "Spiral Matrix II",
+      "solutionLink": "https://leetcode.com/problems/spiral-matrix-ii/solutions/5962268/most-simple-optimal-solution-beating-100-3mg4",
+      "runtime": "100%",
+      "difficulty": "Medium",
+      "tags": ["Array","Matrix","Simulation"]
+    },
+    {
+      "problem": "Spiral Matrix",
+      "solutionLink": "https://leetcode.com/problems/spiral-matrix/solutions/5957450/most-simple-optimal-solution-beating-100-gfgl",
+      "runtime": "100%",
+      "difficulty": "Medium",
+      "tags": ["Array","Matrix","Simulation"]
+    },
+    {
+      "problem": "Valid Palindrome II",
+      "solutionLink": "https://leetcode.com/problems/valid-palindrome-ii/solutions/5925787/beats-9999-with-unique-and-easy-string-s-djjf",
+      "runtime": "99.99%",
+      "difficulty": "Easy",
+      "tags": ["Two Pointers","String","Greedy"]
+    }
+]
+  

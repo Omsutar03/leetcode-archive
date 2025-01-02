@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LeetCode Solutions Archive</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <h1>LeetCode Solutions Archive</h1>
+    <p>A collection of my top-performing LeetCode solutions</p>
+  </header>
+  
+  <main>
+    <!-- Profile Stats Section -->
+    <section id="profile-stats">
+      <h2>Profile Stats</h2>
+      <div class="stats-container">
+        <div class="stat-card">
+          <h3>Total Problems Solved</h3>
+          <p>100+</p>
+        </div>
+        <div class="stat-card">
+          <img src="contents/img/Thorfinn.png" alt="Profile Photo" class="profile-photo">
+          <p><a href="https://leetcode.com/u/OmSutar03/" target="_blank">View Profile</a></p>
+        </div>
+        <div class="stat-card">
+          <h3>100% Runtime Solutions</h3>
+          <p>20+</p>
+        </div>
+      </div>
+    </section>
+  
+    <!-- Solution List -->
+    <section id="solution-list">
+      <h2>Solution Repository</h2>
+      <input type="text" id="search-box" placeholder="Search by problem name..." onkeyup="filterTable()">
+      <label for="difficulty-filter">Filter by Difficulty:</label>
+      <select id="difficulty-filter" onchange="filterTable()">
+        <option value="All">All</option>
+        <option style="color: lightseagreen" value="Easy">Easy</option>
+        <option style="color: darkorange;" value="Medium">Medium</option>
+        <option style="color: crimson;" value="Hard">Hard</option>
+      </select>
+      <p style="font-weight: 600;">Total Problems (top-performing): <span id="problem-count">0</span></p>
+      <table id="solutions-table">
+        <thead>
+          <tr>
+            <th>Problem</th>
+            <th>Solution Link</th>
+            <th>Runtime</th>
+            <th>Difficulty</th>
+            <th>Tags</th>
+          </tr>
+        </thead>
+        <tbody id="solutions-body"></tbody>
+      </table>
+    </section>
+    
+    
+  </main>  
+
+  <footer>
+    <p>Created by Om Sutar</p>
+    <p>
+      | <a href="https://github.com/Omsutar03" target="_blank"><i class="fab fa-github"></i> GitHub</a> 
+      | <a href="https://www.linkedin.com/in/omsutar03/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a> |
+    </p>
+    <p><i class="fas fa-envelope"></i> Mail - <a href="mailto:omsutar03@gmail.com">omsutar03@gmail.com</a></p>
+  </footer>  
+
+  <script src="script.js"></script>
+</body>
+</html>
