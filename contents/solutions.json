@@ -1,5 +1,12 @@
 [
     {
+      "problem": "Number of Ways to Split Array",
+      "solutionLink": "https://leetcode.com/problems/number-of-ways-to-split-array/solutions/6222533/simple-prefixsum-approach-python-beats-9-jpd6",
+      "runtime": "100%",
+      "difficulty": "Medium",
+      "tags": ["Array","Prefix Sum"]
+    },
+    {
       "problem": "Maximum Score After Splitting a String",
       "solutionLink": "https://leetcode.com/problems/maximum-score-after-splitting-a-string/solutions/6212724/simple-prefixsum-approach-python-beats-1-lwg7",
       "runtime": "100%",

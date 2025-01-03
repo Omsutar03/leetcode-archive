@@ -140,3 +140,17 @@ footer {
   border: 1px solid #ccc;
   border-radius: 4px;
 }
+
+@media (max-width: 768px) {
+  table {
+    font-size: 0.9rem; /* Reduce font size */
+  }
+
+  th, td {
+    padding: 0.6rem; /* Reduce padding */
+  }
+
+  .table-container {
+    margin: 0 1rem; /* Add some horizontal spacing */
+  }
+}
