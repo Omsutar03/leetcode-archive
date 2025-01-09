@@ -1,5 +1,12 @@
 [
     {
+      "problem": "Minimum Number of Operations to Move All Balls to Each Box",
+      "solutionLink": "https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/solutions/6255272/double-sided-prefix-sum-approach-python-6h7nx",
+      "runtime": "100%",
+      "difficulty": "Medium",
+      "tags": ["Array","String", "Prefix Sum"]
+    },
+    {
       "problem": "String Matching in an Array",
       "solutionLink": "https://leetcode.com/problems/string-matching-in-an-array/solutions/6244984/counting-substring-approach-python-beats-7omr",
       "runtime": "100%",
