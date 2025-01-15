@@ -1,5 +1,33 @@
 [
     {
+      "problem": "Minimize XOR",
+      "solutionLink": "https://leetcode.com/problems/minimize-xor/solutions/6284639/simple-bit-to-string-manipulation-approa-stvh",
+      "runtime": "100%",
+      "difficulty": "Medium",
+      "tags": ["Greedy","Bit Manipulation"]
+    },
+    {
+      "problem": "Find the Prefix Common Array of Two Arrays",
+      "solutionLink": "https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/solutions/6284535/simple-frequency-approach-python-beats-1-d8l4",
+      "runtime": "100%",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table", "Bit Manipulation"]
+    },
+    {
+      "problem": "Construct K Palindrome Strings",
+      "solutionLink": "https://leetcode.com/problems/construct-k-palindrome-strings/solutions/6284451/simple-odd-count-solution-python-beats-9-1j5e",
+      "runtime": "100%",
+      "difficulty": "Medium",
+      "tags": ["Hash Table","String", "Greedy","Counting"]
+    },
+    {
+      "problem": "Evaluate Reverse Polish Notation",
+      "solutionLink": "https://leetcode.com/problems/evaluate-reverse-polish-notation/solutions/6283824/simple-solution-using-stack-python-beats-qdfr",
+      "runtime": "100%",
+      "difficulty": "Medium",
+      "tags": ["Array","Math", "Stack"]
+    },
+    {
       "problem": "Minimum Number of Operations to Move All Balls to Each Box",
       "solutionLink": "https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/solutions/6255272/double-sided-prefix-sum-approach-python-6h7nx",
       "runtime": "100%",
