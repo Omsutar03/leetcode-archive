@@ -1,5 +1,12 @@
 [
     {
+      "problem": "Bitwise XOR of All Pairings",
+      "solutionLink": "https://leetcode.com/problems/bitwise-xor-of-all-pairings/solutions/6288305/simple-mathematical-approach-python-beat-jxjn",
+      "runtime": "100%",
+      "difficulty": "Medium",
+      "tags": ["Array","Bit Manipulation","Brainteaser"]
+    },
+    {
       "problem": "Minimize XOR",
       "solutionLink": "https://leetcode.com/problems/minimize-xor/solutions/6284639/simple-bit-to-string-manipulation-approa-stvh",
       "runtime": "100%",
