@@ -5,7 +5,7 @@
       "runtime": "100%",
       "difficulty": "Medium",
       "tags": ["Array","Matrix","Prefix Sum"]
-    },
+    }, 
     {
       "problem": "Bitwise XOR of All Pairings",
       "solutionLink": "https://leetcode.com/problems/bitwise-xor-of-all-pairings/solutions/6288305/simple-mathematical-approach-python-beat-jxjn",
