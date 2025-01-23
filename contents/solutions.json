@@ -1,5 +1,12 @@
 [
     {
+      "problem": "Count Servers that Communicate",
+      "solutionLink": "https://leetcode.com/problems/count-servers-that-communicate/solutions/6319524/simple-o1-space-solution-python-9176-c-1-shpy",
+      "runtime": "100%",
+      "difficulty": "Medium",
+      "tags": ["Array","Depth-First Search","Breadth-First Search","Union Find","Matrix","Counting"]
+    },
+    {
       "problem": "Map of Highest Peak",
       "solutionLink": "https://leetcode.com/problems/map-of-highest-peak/solutions/6315678/no-bfs-solution-python-beats-5718-c-beat-sdv5",
       "runtime": "96.12%",
