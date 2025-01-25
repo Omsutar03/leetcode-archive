@@ -1,5 +1,12 @@
 [
     {
+      "problem": "Make Lexicographically Smallest Array by Swapping Elements",
+      "solutionLink": "https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/solutions/6327614/simple-group-approach-python-beats-9236-fomid",
+      "runtime": "92.36%",
+      "difficulty": "Medium",
+      "tags": ["Array","Union Find","Sorting"]
+    },
+    {
       "problem": "Count Servers that Communicate",
       "solutionLink": "https://leetcode.com/problems/count-servers-that-communicate/solutions/6319524/simple-o1-space-solution-python-9176-c-1-shpy",
       "runtime": "100%",
