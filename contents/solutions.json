@@ -1,5 +1,12 @@
 [
     {
+      "problem": "Maximum Number of Fish in a Grid",
+      "solutionLink": "https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/solutions/6339073/dfs-approach-c-beats-100-by-omsutar03-uimp",
+      "runtime": "100%",
+      "difficulty": "Medium",
+      "tags": ["Array","Depth-First Search","Breadth-First Search","Union Find","Matrix"]
+    },
+    {
       "problem": "Make Lexicographically Smallest Array by Swapping Elements",
       "solutionLink": "https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/solutions/6327614/simple-group-approach-python-beats-9236-fomid",
       "runtime": "92.36%",
