@@ -1,5 +1,12 @@
 [
     {
+      "problem": "Redundant Connection",
+      "solutionLink": "https://leetcode.com/problems/redundant-connection/solutions/6344988/union-find-approach-python-beats-100-c-b-wxoh",
+      "runtime": "100%",
+      "difficulty": "Medium",
+      "tags": ["Depth-First Search","Breadth-First Search","Union Find","Graph"]
+    },
+    {
       "problem": "Maximum Number of Fish in a Grid",
       "solutionLink": "https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/solutions/6339073/dfs-approach-c-beats-100-by-omsutar03-uimp",
       "runtime": "100%",
