@@ -1,5 +1,12 @@
 [
     {
+      "problem": "Check if Array Is Sorted and Rotated",
+      "solutionLink": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/solutions/6364413/simple-solution-without-using-operator-p-p5o5",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["Array"]
+    },
+    {
       "problem": "Redundant Connection",
       "solutionLink": "https://leetcode.com/problems/redundant-connection/solutions/6344988/union-find-approach-python-beats-100-c-b-wxoh",
       "runtime": "100%",
