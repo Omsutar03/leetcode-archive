@@ -1,5 +1,12 @@
 [
     {
+      "problem": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+      "solutionLink": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/solutions/6366715/simple-single-iteration-approach-python-lvhqx",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["Array"]
+    },
+    {
       "problem": "Check if Array Is Sorted and Rotated",
       "solutionLink": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/solutions/6364413/simple-solution-without-using-operator-p-p5o5",
       "runtime": "100%",
