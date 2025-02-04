@@ -1,5 +1,12 @@
 [
     {
+      "problem": "Maximum Ascending Subarray Sum",
+      "solutionLink": "https://leetcode.com/problems/maximum-ascending-subarray-sum/solutions/6376048/simple-single-iteration-approach-python-8voym",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["Array"]
+    },
+    {
       "problem": "Longest Strictly Increasing or Strictly Decreasing Subarray",
       "solutionLink": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/solutions/6366715/simple-single-iteration-approach-python-lvhqx",
       "runtime": "100%",
