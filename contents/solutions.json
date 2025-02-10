@@ -1,5 +1,19 @@
 [
     {
+      "problem": "Clear Digits",
+      "solutionLink": "https://leetcode.com/problems/clear-digits/solutions/6403136/simple-counting-approach-without-using-s-54vc",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["String","Stack","Simulation"]
+    },
+    {
+      "problem": "Check if One String Swap Can Make Strings Equal",
+      "solutionLink": "https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/solutions/6383620/without-using-hash-table-approach-python-3k9z",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["Hash Table", "String", "Counting"]
+    },
+    {
       "problem": "Maximum Ascending Subarray Sum",
       "solutionLink": "https://leetcode.com/problems/maximum-ascending-subarray-sum/solutions/6376048/simple-single-iteration-approach-python-8voym",
       "runtime": "100%",
