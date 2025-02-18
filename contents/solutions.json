@@ -1,5 +1,12 @@
 [
     {
+      "problem": "Construct Smallest Number From DI String",
+      "solutionLink": "https://leetcode.com/problems/construct-smallest-number-from-di-string/solutions/6438301/stack-approach-python-beats-100-c-beats-wk25o",
+      "runtime": "100%",
+      "difficulty": "Medium",
+      "tags": ["String","Backtracking","Stack","Greedy"]
+    },
+    {
       "problem": "Clear Digits",
       "solutionLink": "https://leetcode.com/problems/clear-digits/solutions/6403136/simple-counting-approach-without-using-s-54vc",
       "runtime": "100%",
