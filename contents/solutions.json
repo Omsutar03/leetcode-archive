@@ -1,5 +1,12 @@
 [
     {
+      "problem": "The k-th Lexicographical String of All Happy Strings of Length n",
+      "solutionLink": "https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/solutions/6447149/simple-stack-approach-python-beats-100-c-o1vz",
+      "runtime": "100%",
+      "difficulty": "Medium",
+      "tags": ["String","Backtracking"]
+    },
+    {
       "problem": "Construct Smallest Number From DI String",
       "solutionLink": "https://leetcode.com/problems/construct-smallest-number-from-di-string/solutions/6438301/stack-approach-python-beats-100-c-beats-wk25o",
       "runtime": "100%",
