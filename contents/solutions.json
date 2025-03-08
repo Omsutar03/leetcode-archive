@@ -1,5 +1,12 @@
 [
     {
+      "problem": "Minimum Recolors to Get K Consecutive Black Blocks",
+      "solutionLink": "https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/solutions/6514066/simple-sliding-window-approach-python-be-16vn",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["String","Sliding Window"]
+    },
+    {
       "problem": "The k-th Lexicographical String of All Happy Strings of Length n",
       "solutionLink": "https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/solutions/6447149/simple-stack-approach-python-beats-100-c-o1vz",
       "runtime": "100%",
