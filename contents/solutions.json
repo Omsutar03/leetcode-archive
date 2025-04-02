@@ -1,5 +1,12 @@
 [
     {
+      "problem": "Maximum Value of an Ordered Triplet I",
+      "solutionLink": "https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/solutions/6608259/left-right-maximum-pre-processing-approa-cwpn",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["Array"]
+    },
+    {
       "problem": "Partition Labels",
       "solutionLink": "https://leetcode.com/problems/partition-labels/solutions/6596508/simple-non-dictionary-approach-c-beats-1-zh38",
       "runtime": "100%",
