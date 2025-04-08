@@ -1,5 +1,12 @@
 [
     {
+      "problem": "Minimum Number of Operations to Make Elements in Array Distinct",
+      "solutionLink": "https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/solutions/6629595/solution-without-using-dictionaryhashmap-qslq",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["Array", "Hash Table"]
+    },
+    {
       "problem": "Maximum Value of an Ordered Triplet I",
       "solutionLink": "https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/solutions/6608259/left-right-maximum-pre-processing-approa-cwpn",
       "runtime": "100%",
