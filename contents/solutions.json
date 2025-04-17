@@ -1,5 +1,12 @@
 [
     {
+      "problem": "Count Equal and Divisible Pairs in an Array",
+      "solutionLink": "https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/solutions/6660330/index-grouping-by-value-python3-beats-96-s3ss",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["Array"]
+    },
+    {
       "problem": "Count Good Numbers",
       "solutionLink": "https://leetcode.com/problems/count-good-numbers/solutions/6647179/math-power-in-mod-python3-beats-100-c-be-fjlq",
       "runtime": "100%",
