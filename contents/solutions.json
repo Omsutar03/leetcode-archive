@@ -1,5 +1,12 @@
 [
     {
+      "problem": "Count Largest Group",
+      "solutionLink": "https://leetcode.com/problems/count-largest-group/solutions/6680543/group-by-digit-sum-frequency-count-pytho-ar0l",
+      "runtime": "100%",
+      "difficulty": "Easy",
+      "tags": ["Hash Table", "Math"]
+    },
+    {
       "problem": "Rabbits in Forest",
       "solutionLink": "https://leetcode.com/problems/rabbits-in-forest/solutions/6671002/greedy-group-formation-by-answer-frequen-c8o6",
       "runtime": "100%",
